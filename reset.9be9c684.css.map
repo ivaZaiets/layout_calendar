@@ -1,0 +1,1 @@
+{"version":3,"sources":["styles\\reset.scss"],"names":[],"mappings":"AAAA,SAEE,QAAS","file":"reset.9be9c684.css","sourceRoot":"..\\src","sourcesContent":["body,\ndiv {\n  margin: 0;\n}\n"]}
